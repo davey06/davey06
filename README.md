@@ -1,12 +1,11 @@
-Hi👋,  
-I'm a Software Engineer
------------------------
+Hi👋,  I'm a Software Engineer
+=========================
 
 I'm interested in Mobile development
 
-* :indonesia: I'm based in Nairobi
+* 📍 🇮🇩  I'm based in Indonesia
+* 🍀  I'm currently learning
 * ✉️  You can contact me at [devin.yonas@gmail.com](mailto:devin.yonas@gmail.com)
-* 🧠  I'm currently learning
 
 ### Skills
 
