@@ -3,8 +3,7 @@ Hi👋,  I'm a Software Engineer
 
 I'm interested in Mobile development
 
-* 📍 🇮🇩  I'm based in Indonesia
-* 🍀  I'm currently learning
+* 📍 I'm based in Indonesia
 * ✉️  You can contact me at [devin.yonas@gmail.com](mailto:devin.yonas@gmail.com)
 
 ### Skills
